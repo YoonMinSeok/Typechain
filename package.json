@@ -1,0 +1,15 @@
+{
+  "name": "Typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YoonMinSeok/Typechain.git",
+  "author": "YoonMinSeok <81290520+YoonMinSeok@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+    "scripts": {
+    "start": "node index.js",
+    "prestart": "npx tsc"
+  }
+}
